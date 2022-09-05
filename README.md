@@ -1,2 +1,2 @@
-# Morbimotalidad
-Análisis estadístico de morbimotalidad
+# Morbimortalidad
+Análisis estadístico de morbimortalidad
